@@ -5,6 +5,7 @@
 ``` 
 pip3 install -U pytest
 pip3 install -U pytest-html
+pip3 install requests
 ```
 
 ## 测试执行
